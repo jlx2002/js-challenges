@@ -75,6 +75,13 @@ Thank you to all the people who already contributed to js-challenges!
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/hannah-bingo">
+            <img src="https://avatars.githubusercontent.com/u/76077694?v=4" width="100;" alt="hannah-bingo"/>
+            <br />
+            <sub><b>Hannah</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/lzxjack">
             <img src="https://avatars.githubusercontent.com/u/70835990?v=4" width="100;" alt="lzxjack"/>
             <br />
@@ -87,15 +94,22 @@ Thank you to all the people who already contributed to js-challenges!
             <br />
             <sub><b>FailurMan</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/object-kaz">
             <img src="https://avatars.githubusercontent.com/u/54239670?v=4" width="100;" alt="object-kaz"/>
             <br />
             <sub><b>Kaz</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
+    <td align="center">
+        <a href="https://github.com/jlx2002">
+            <img src="https://avatars.githubusercontent.com/u/83263333?v=4" width="100;" alt="jlx2002"/>
+            <br />
+            <sub><b>Acaax</b></sub>
+        </a>
+    </td>
     <td align="center">
         <a href="https://github.com/dossweet">
             <img src="https://avatars.githubusercontent.com/u/38655923?v=4" width="100;" alt="dossweet"/>
@@ -111,12 +125,20 @@ Thank you to all the people who already contributed to js-challenges!
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/Pcjmy">
+            <img src="https://avatars.githubusercontent.com/u/73071671?v=4" width="100;" alt="Pcjmy"/>
+            <br />
+            <sub><b>Pcjmy</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/ChelesteWang">
             <img src="https://avatars.githubusercontent.com/u/40495740?v=4" width="100;" alt="ChelesteWang"/>
             <br />
             <sub><b>Xinyuan Wang</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/lechang-zhang">
             <img src="https://avatars.githubusercontent.com/u/63288975?v=4" width="100;" alt="lechang-zhang"/>
@@ -125,20 +147,12 @@ Thank you to all the people who already contributed to js-challenges!
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/hannah-bingo">
-            <img src="https://avatars.githubusercontent.com/u/76077694?v=4" width="100;" alt="hannah-bingo"/>
-            <br />
-            <sub><b>Hannah</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/LevyEvans-s">
             <img src="https://avatars.githubusercontent.com/u/74438804?v=4" width="100;" alt="LevyEvans-s"/>
             <br />
             <sub><b>SakadaGintoki</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/lxy-Jason">
             <img src="https://avatars.githubusercontent.com/u/94227696?v=4" width="100;" alt="lxy-Jason"/>
@@ -166,7 +180,8 @@ Thank you to all the people who already contributed to js-challenges!
             <br />
             <sub><b>朱志康</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/qiuye-zhou">
             <img src="https://avatars.githubusercontent.com/u/75529722?v=4" width="100;" alt="qiuye-zhou"/>
@@ -527,6 +542,7 @@ TODOS
 - [css 书卡布局](https://github.com/Sunny-117/js-challenges/issues/241)
 - [实现宽高比例固定的 div](https://github.com/Sunny-117/js-challenges/issues/378)
 - [实现一个五点骰子](https://github.com/Sunny-117/js-challenges/issues/392)
+- [实现圣杯布局](https://github.com/Sunny-117/js-challenges/issues/406)
 
 ## JS 实现基本数据结构
 
@@ -558,6 +574,7 @@ TODOS
 - [旋转图像](https://github.com/Sunny-117/js-challenges/issues/318)
 - [岛屿数量](https://github.com/Sunny-117/js-challenges/issues/320)
 - [矩形重叠](https://github.com/Sunny-117/js-challenges/issues/321)
+- [矩阵乘法](https://github.com/Sunny-117/js-challenges/issues/409)
 
 ## 数组
 
